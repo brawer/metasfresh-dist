@@ -3,7 +3,7 @@
 
 # metasfresh-dist
 
-This repository contains what is needed to generate a districubtable `tar.gz` file whicxh cotanins
+This repository contains what is needed to generate a districubtable `tar.gz` file which cotanins
 * the backend service
 * the swing client
 * the webui API service
